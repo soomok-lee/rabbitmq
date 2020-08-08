@@ -1,2 +1,2 @@
 # rabbitmq
-sample for rabbitmq
+example for rabbitmq
