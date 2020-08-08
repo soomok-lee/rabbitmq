@@ -1,1 +1,2 @@
 # rabbitmq
+sample for rabbitmq
